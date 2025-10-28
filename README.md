@@ -8,5 +8,7 @@ ikala funksiyani ham aktivlashtib ishlatsa ham bo'lardi lekin ilovar 2 tadan bo'
 
 Ilovada shuningdek SharedPreference ham qoshigan uning asosiy vazifalarin eng oxirgi kirilgan ilovani saqlab qolish va categoriyalarni saqlash uchun
 
+Ilova asasan televezorlar uchun moslangan shuning uchun shrift lar bir muncha kattaroq qilingan shunga telifonda biroz g`alitoq bo'lishi mumkin!
+
 
 
